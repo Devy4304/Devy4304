@@ -1,16 +1,17 @@
-## Hi there 👋
+## Ahoy There! 👋
 
-<!--
-**Devy4304/Devy4304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Devy4304**; I am still kinda learning this stuff, and can only code in Java with decent results. But hey, we all start somewhere, and for me that is here and hopefully, when all this learning comes to importance I will be on the other side.
 
-Here are some ideas to get you started:
+> Watch that old *fire* as it flickers and *dies* \
+> That once blessed the *household* and lit up our *lives* \
+> It shone for the *friends* and the clinking of *glasses* \
+> I'll tend to the *flame*, you can worship the *ashes* \
+> \- **Ashes**, **Cures What Ails Ya**, **The Longest Johns**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+[![Skills](https://skillicons.dev/icons?i=java,idea,py,arduino,git,windows,linux,md,obsidian,blender&perline=5)](github.com/Devy4304)
+
+### My Works
+
+Mostly I just have some simple projects in Java here, but one of my favorites is this pseudo-3D console maze game I made, which was pretty fun. Go check it out [here](https://github.com/Devy4304/maze).
