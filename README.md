@@ -10,7 +10,7 @@ I'm **Devy4304**; I am still kinda learning this stuff, and can only code in Jav
 
 ### Skills
 
-[![Skills](https://skillicons.dev/icons?i=java,idea,py,arduino,git,windows,linux,md,obsidian,blender&perline=5)](github.com/Devy4304)
+[![Skills](https://skillicons.dev/icons?i=java,idea,py,arduino,git,windows,linux,md,obsidian,blender&perline=5)](https://github.com/Devy4304)
 
 ### My Works
 
