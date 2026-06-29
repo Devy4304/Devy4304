@@ -1,13 +1,13 @@
 ## Ahoy There! 👋
 
-I'm **Devy4304**; I am still kinda learning this stuff, and can only code in Java with decent results. But hey, we all start somewhere, and for me that is here and hopefully, when all this learning comes to importance I will be on the other side.
+I'm **Devy4304**; I am still kinda learning this stuff, and can only code in Java with decent results. But hey, we all start somewhere, and for me that is here and hopefully, when all this learning comes to importance I will have succeeded.
 
-> Watch that old *fire* as it flickers and *dies* \
-> That once blessed the *household* and lit up our *lives* \
-> It shone for the *friends* and the clinking of *glasses* \
-> I'll tend to the *flame*, you can worship the *ashes*
+> So turn your sails over and bring her hard to port \
+> Find that little star and fly straight into the north \
+> The wild sun upon your back, the wind a-blowing free \
+> Your rolling down the river, boys, to old Chicoutimi
 > 
-> \- **Ashes**, **Cures What Ails Ya**, **The Longest Johns**
+> \- **Joli Rouge**, **The Longest Johns** (Cover of Joli Rouge - Into the North - The Dreadnaughts)
 
 ### Skills
 
