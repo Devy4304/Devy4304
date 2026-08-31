@@ -1,6 +1,6 @@
 ## Ahoy There! 👋
 
-I'm **Devy4304**; I am still kinda learning this stuff, and can only code in Java with decent results. But hey, we all start somewhere, and for me that is here and hopefully, when all this learning comes to importance I will have succeeded.
+I'm **Devy4304**; I am still kind of learning this stuff, and can only code in Java and Python with decent results. But hey, we all start somewhere, and for me that is here and hopefully, when all this learning comes to importance I will have succeeded.
 
 > So turn your sails over and bring her hard to port \
 > Find that little star and fly straight into the north \
