@@ -4,7 +4,7 @@ I'm **Devy4304**, I do programming stuff.
 
 > As my feet forver fail me, and my eyes can't guide my way \
 > Let me sail forever westward to the dying of the day \
-> Let me sail forever westward to the dying of the day \
+> Let me sail forever westward to the dying of the day
 > 
 > So set the sails for west of England \
 > Though she pleads me, I would not stay \
