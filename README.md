@@ -1,6 +1,6 @@
 ## Ahoy There! 👋
 
-I'm **Devy4304**; I am still kind of learning this stuff, and can only code in Java and Python with decent results. But hey, we all start somewhere, and for me that is here and hopefully, when all this learning comes to importance I will have succeeded.
+I'm **Devy4304**, I do programming stuff.
 
 > As my feet forver fail me, and my eyes can't guide my way \
 > Let me sail forever westward to the dying of the day \
@@ -17,6 +17,6 @@ I'm **Devy4304**; I am still kind of learning this stuff, and can only code in J
 
 [![Skills](https://skillicons.dev/icons?i=java,idea,py,arduino,git,windows,linux,md,obsidian,blender&perline=5)](https://github.com/Devy4304)
 
-### My Works
+### My Projects
 
-Mostly I just have some simple projects in Java here, but one of my favorites is this pseudo-3D console maze game I made, which was pretty fun. Go check it out [here](https://github.com/Devy4304/maze).
+Mostly I just have some simple projects in Java here, but one of my favorites is this pseudo-3D console maze game I made. Go check it out [here](https://github.com/Devy4304/maze).
