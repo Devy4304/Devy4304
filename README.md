@@ -2,12 +2,16 @@
 
 I'm **Devy4304**; I am still kind of learning this stuff, and can only code in Java and Python with decent results. But hey, we all start somewhere, and for me that is here and hopefully, when all this learning comes to importance I will have succeeded.
 
-> So turn your sails over and bring her hard to port \
-> Find that little star and fly straight into the north \
-> The wild sun upon your back, the wind a-blowing free \
-> We're rolling down the river, boys, to old Chicoutimi
+> As my feet forver fail me, and my eyes can't guide my way \
+> Let me sail forever westward to the dying of the day \
+> Let me sail forever westward to the dying of the day \
 > 
-> \- **Joli Rouge**, **The Longest Johns** (Cover of Joli Rouge - Into the North - The Dreadnaughts)
+> So set the sails for west of England \
+> Though she pleads me, I would not stay \
+> Two-hundred men are sailin' with me \
+> West of England, into the day
+> 
+> \- **Dying of the Day**, **The Longest Johns**
 
 ### Skills
 
